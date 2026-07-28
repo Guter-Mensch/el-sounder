@@ -1,7 +1,0 @@
-# el sounder — Windows only
-PyQt6>=6.6
-numpy>=1.26
-PyAudioWPatch>=0.2.12.7   # WASAPI loopback capture
-pypresence>=4.3           # Discord Rich Presence
-winsdk>=1.0.5              # SMTC (now-playing) access
-comtypes>=1.2              # ITaskbarList / taskbar icon refresh
