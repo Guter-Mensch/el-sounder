@@ -53,8 +53,8 @@ Settings are stored at `%APPDATA%\ElSounder\settings.json`.
 - search for  "installer"
   or go on this link : https://github.com/Guter-Mensch/el-sounder/releases/tag/Installer
 - downlaod the .exe and start it
-- for more infos or question as well bugreports come on my discord : https://discord.gg/ed43SVr4YR
 - done !
 
 by Guter Mensch — unsigned build, no code-signing certificate yet.
 Windows may show a SmartScreen warning; click "More info" → "Run anyway".
+- for more infos or question as well bugreports come on my discord : https://discord.gg/ed43SVr4YR
