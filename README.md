@@ -49,9 +49,7 @@ Settings are stored at `%APPDATA%\ElSounder\settings.json`.
   showing nothing rather than silently mixing in other apps' audio.
 
 ## how to install
-- go under releases
-- search for  "installer"
-  or go on this link : https://github.com/Guter-Mensch/el-sounder/releases/tag/Installer
+- go on this link : https://github.com/Guter-Mensch/el-sounder-Installer/releases/tag/Installer
 - downlaod the .exe and start it
 - done !
 - for more infos or question as well bugreports come on my discord : https://discord.gg/ed43SVr4YR
