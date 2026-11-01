@@ -50,10 +50,10 @@ Settings are stored at `%APPDATA%\ElSounder\settings.json`.
 - $\color{gray}{\text{Local and Portable Version}}$
     - $\color{red}{\text{addition: be careful with the updater, the updater can be buggy and may not work at the Portable versions!}}$
 
-## how to install
+## $\color{green}{\text{how to install}}$
 - go on this link : https://github.com/Guter-Mensch/el-sounder-Installer/releases/tag/Installer
 - downlaod the .exe and start it
-- done !
+- $\color{gold}{\text{done !}}$
 - for more infos or question as well bugreports come on my discord : https://discord.gg/ed43SVr4YR
 
 by Guter Mensch — unsigned build, no code-signing certificate yet.
