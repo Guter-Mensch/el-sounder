@@ -39,7 +39,7 @@ resources/    icon + fonts
 Settings are stored at `%APPDATA%\ElSounder\settings.json`.
 
 ## Notes
-
+>>>
 - Discord Rich Presence needs an internet connection; cover art is
   uploaded anonymously to catbox.moe to get a URL Discord can display
   (Discord's API requires a public image URL — there's no way around
