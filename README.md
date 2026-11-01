@@ -47,6 +47,8 @@ Settings are stored at `%APPDATA%\ElSounder\settings.json`.
 - "Only Spotify" mode uses Windows' per-process loopback API, which
   needs Windows 10 build 20348+. On older builds it falls back to
   showing nothing rather than silently mixing in other apps' audio.
+- Local and Portable Version
+    - addition : be carefull with the updater, the updater can be buggy and may not work at the Portable versions !
 
 ## how to install
 - go on this link : https://github.com/Guter-Mensch/el-sounder-Installer/releases/tag/Installer
