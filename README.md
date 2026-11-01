@@ -21,7 +21,7 @@ the bars.
 ## Requirements
 
 - Windows 10/11
-   - sidenote : im working on linux support ;)
+   - sitenote : im working on linux support ;)
 
 ## Project layout
 
