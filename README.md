@@ -20,8 +20,8 @@ the bars.
 
 ## Requirements
 
-- Windows 10/11 (this is a Windows-only app — WASAPI loopback + SMTC +
-  taskbar integration are all Windows APIs)
+- Windows 10/11
+   - sidenote : im working on linux support ;)
 
 ## Project layout
 
