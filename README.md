@@ -48,7 +48,7 @@ Settings are stored at `%APPDATA%\ElSounder\settings.json`.
   $\color{gray}{\text{needs Windows 10 build 20348+. On older builds it falls back to}}$
   $\color{gray}{\text{showing nothing rather than silently mixing in other apps' audio.}}$
 - $\color{gray}{\text{Local and Portable Version}}$
-    - ⚠️ $\color{red}{\text{addition: be careful with the updater, the updater can be buggy and may not work at the Portable versions!}}$
+    - ⚠️ $\color{dark_gray}{\text{addition: be careful with the updater, the updater can be buggy and may not work at the Portable versions!}}$
 
 ## $\color{green}{\text{how to install}}$
 - go on this link : https://github.com/Guter-Mensch/el-sounder-Installer/releases/tag/Installer
