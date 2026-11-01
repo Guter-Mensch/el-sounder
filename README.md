@@ -52,10 +52,10 @@ Settings are stored at `%APPDATA%\ElSounder\settings.json`.
 
 ## $\color{green}{\text{how to install}}$
 - go on this link : https://github.com/Guter-Mensch/el-sounder-Installer/releases/tag/Installer
-- downlaod the .exe and start it
-- $\color{gold}{\text{done !}}$
+- downlaod the .exe and start it -> $\color{dark_gray}{\text{Windows may show a SmartScreen warning; click "More info" → "Run anyway".}}$
+- $\color{gold}{\text{done !}}$ 
 - for more infos or question as well bugreports come on my discord : https://discord.gg/ed43SVr4YR
 
 by Guter Mensch — unsigned build, no code-signing certificate yet.
-Windows may show a SmartScreen warning; click "More info" → "Run anyway".
+
 
