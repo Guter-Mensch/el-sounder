@@ -39,15 +39,15 @@ resources/    icon + fonts
 Settings are stored at `%APPDATA%\ElSounder\settings.json`.
 
 ## Notes
->>>
-- Discord Rich Presence needs an internet connection; cover art is
-  uploaded anonymously to catbox.moe to get a URL Discord can display
-  (Discord's API requires a public image URL — there's no way around
-  that).
-- "Only Spotify" mode uses Windows' per-process loopback API, which
-  needs Windows 10 build 20348+. On older builds it falls back to
-  showing nothing rather than silently mixing in other apps' audio.
-- Local and Portable Version
+
+# - Discord Rich Presence needs an internet connection; cover art is
+#   uploaded anonymously to catbox.moe to get a URL Discord can display
+#   (Discord's API requires a public image URL — there's no way around
+#   that).
+# - "Only Spotify" mode uses Windows' per-process loopback API, which
+#   needs Windows 10 build 20348+. On older builds it falls back to
+#   showing nothing rather than silently mixing in other apps' audio.
+# - Local and Portable Version
     - $\color{red}{\text{addition: be careful with the updater, the updater can be buggy and may not work at the Portable versions!}}$
 
 ## how to install
